@@ -1,0 +1,15 @@
+{
+  "name": "lotr-app",
+  "version": "1.0.0",
+  "description": "Application to remember some concepts, using Lord of The Rings API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Guirra Sousa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "worker-threads-pool": "^2.0.0"
+  }
+}
